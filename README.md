@@ -76,7 +76,6 @@ Each saved image will be stored in:
 
 C:\Users\bhava\OneDrive\Desktop\computer vision\OpenCV_images
 
-
 ---
 
 ## 💡 Future Improvements
