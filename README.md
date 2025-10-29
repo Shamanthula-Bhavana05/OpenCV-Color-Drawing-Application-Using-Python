@@ -69,12 +69,8 @@ It was a great hands-on project to explore *OpenCV GUI functions, **mouse event 
 
 ---
 
-## 📍 Save Path
-
-Each saved image will be stored in:
-
-
-C:\Users\bhava\OneDrive\Desktop\computer vision\OpenCV_images
+## Demo Video:
+[Video](https://youtu.be/ur0pb_GCTSQ)
 
 ---
 
