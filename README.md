@@ -77,8 +77,11 @@ It was a great hands-on project to explore *OpenCV GUI functions, **mouse event 
 ## 💡 Future Improvements
 
 🔹 Add fill color for shapes
+
 🔹 Add undo/redo functionality
+
 🔹 Integrate text input feature
+
 🔹 Create color palette presets
 
 ---
